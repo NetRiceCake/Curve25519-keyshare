@@ -3,6 +3,7 @@
 Curve25519 is an elliptic curve offering 128 bits of security and designed for use with the elliptic curve Diffie–Hellman (ECDH) key agreement scheme. It is one of the fastest ECC curves
 
 [![Version](https://img.shields.io/badge/Version-2.0-blue.svg)](https://github.com/NetRiceCake/Curve25519-keyshare/)
+[![Version](https://img.shields.io/badge/License-Public%20domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### Using in Gradle :
 ```
